@@ -29,7 +29,7 @@ file.
   (require 'json))
 #+end_src
 
-** Installation with ~[[https://github.com/][straight.el]]~
+** Installation with ~[[https://github.com/raxod502/straight.el][straight.el]]~
 
 Using ~straight.el~ makes installation a breeze. Simply define a custom recipe.
 
