@@ -5,7 +5,7 @@
 ;; Author:  Hayato Kajiyama <kaji1216@gmail.com>
 ;; Maintainer: Carwin Young <emacs@carw.in>
 ;; Keywords: dashboard
-;; URL: https://github.com/carwin/emacs-dashboard-hackernews
+;; URL: https://github.com/carwin/dashboard-hackernews.el
 ;; Version: 0.0.2
 ;; Package-Requires: ((emacs "24") (dashboard "1.2.5") (request "0.3.0"))
 
