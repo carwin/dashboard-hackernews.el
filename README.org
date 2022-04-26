@@ -15,7 +15,7 @@ inserts a section containing  a configurable number of top stories from
 M-x package-install RET dashboard-hackernews
 #+end_src
 
-** Installation with ~[[https://github.com/jwiegley/use-package][use-package]]~
+** Installation with [[https://github.com/jwiegley/use-package][use-package]]
 
 Since this version of the package isn't on MELPA or any of the other package
 archives, clone the repository or download the files. After doing so, point
@@ -29,7 +29,7 @@ file.
   (require 'json))
 #+end_src
 
-** Installation with ~[[https://github.com/raxod502/straight.el][straight.el]]~
+** Installation with [[https://github.com/raxod502/straight.el][straight.el]]
 
 Using ~straight.el~ makes installation a breeze. Simply define a custom recipe.
 
