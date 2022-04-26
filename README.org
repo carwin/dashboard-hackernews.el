@@ -92,6 +92,6 @@ example showing configuration with ~use-package~ and ~straight.el~.
 #+end_src
 
 ** Note
-The [[https://github.com/hyakt/emacs-dashboard-hackernws/][original]] version of
+The [[https://github.com/hyakt/emacs-dashboard-hackernews][original]] version of
 this project can be installed from MELPA but will not work out of the box with
 recent versions of emacs-dashboard.
